@@ -1,0 +1,72 @@
+<table border="1" class="tabela">
+    <tr>
+        <th>Nome</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    
+    </tr>
+    <tr>
+        <th>Calibre</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    
+    </tr>
+    <tr>
+        <th>Dano</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    
+    </tr>
+    <tr>
+        <th>CdT</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <th>Pente</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <th>Ocultabilidade</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+    <tr>
+        <th>Alcance</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        
+    </tr>
+</table>          
